@@ -11,7 +11,7 @@ static class Node {
 	Node leftNode , rightNode;
 	
 
-};
+}
 
 static Node NewNode (int nodeData)
 {
